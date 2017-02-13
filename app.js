@@ -17,6 +17,11 @@ var response = {
   "can_start_working": true,
 };
 
+app.get('/', function (req, res) {
+  res.send(response);
+  res.end();
+});
+
 app.get('/api/v1/users/me', function (req, res) {
   res.send(response);
   res.end();
