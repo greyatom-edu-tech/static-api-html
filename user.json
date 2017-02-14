@@ -8,5 +8,7 @@
   "github_gravatar": "https://avatars.githubusercontent.com/u/4545996",
   "github_uid": 4545996,
   "learn_verified_user": false,
+  "pem_file": "/home/ec2-user/xterm-server/demo/githubdemo.pem",
+  "user_host": "ec2-user@35.154.96.42",
   "can_start_working": true
 }
