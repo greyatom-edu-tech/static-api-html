@@ -8,7 +8,7 @@
   "github_gravatar": "https://avatars.githubusercontent.com/u/4545996",
   "github_uid": 4545996,
   "learn_verified_user": false,
-  "pem_file": "/root/pem-files/64d7e0b443d4d6f6fcaaf16da12242f7899a9509bf2233319b575c1592cc38e5.pem",
-  "user_host": "ec2-user@35.154.96.42",
+  "pem_file": "/root/pem-files/student-server.pem",
+  "user_host": "ubuntu@35.154.189.94",
   "can_start_working": true
 }
