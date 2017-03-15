@@ -10,5 +10,6 @@
   "learn_verified_user": false,
   "pem_file": "/root/pem-files/student-server.pem",
   "user_host": "ubuntu@35.154.189.94",
-  "can_start_working": true
+  "can_start_working": true,
+  "remote": "/home/gitint/Workspace/code/"
 }
